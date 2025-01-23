@@ -4,5 +4,3 @@
 
 ### 👨‍💻 About me:
 I have been independently studying programming languages for over two years. My experience includes working with C++, PAWN, Python, JavaScript, databases, and server technologies.
-
-### 💻 Technologies:
