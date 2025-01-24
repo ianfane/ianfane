@@ -1,17 +1,20 @@
 # Hi, my name is Ivan!👋
 
-<b>Hello! My name is Ivan, and I am a Back-End Developer. My primary focus is the development of SA:MP projects.</b> 
+# 💫 About Me:
+Hello! My name is Ivan, and I am a Back-End Developer. My primary focus is the development of SA:MP projects.<br><br>👨‍💻 About me:<br>I have been independently studying programming languages for over two years. My experience includes working with C++, PAWN, Python, JavaScript, databases, and server technologies.
 
-### 👨‍💻 About me:
-I have been independently studying programming languages for over two years. My experience includes working with C++, PAWN, Python, JavaScript, databases, and server technologies.
 
-### 💻 Technologies:
-<div>
-  <img src= "https://github.com/user-attachments/assets/e8116953-a08c-46de-bf73-d9803b3bec46" title = "pawn" alt="pawn" width="40" height="40"/>
-  <img src= "https://github.com/user-attachments/assets/89ebcf5d-68f5-4c16-a115-bb0218bd0d16" title = "python" alt="python" width="40" height="40"/>
-  <img src= "https://github.com/user-attachments/assets/47cb9ca7-1659-4842-9fe0-3333a25d7f8c" title = "js", alt="js", width="40" height="40"/>
-  <img src= "https://github.com/user-attachments/assets/59a52b09-3d7b-41d3-be58-7cd647ff6825" title = "php", alt="php", width="40" height="40"/>
-  <img src= "https://github.com/user-attachments/assets/7f290ef1-268b-4c58-872f-51b5680cdcbc" title = "github", alt="github", width="40" height="40"/>
-  <img src= "https://github.com/user-attachments/assets/71023eec-272a-45be-821b-cd5b564952b4" title = "mysql", alt="mysql", width="40" height="40"/>
-  <img src= "https://github.com/user-attachments/assets/8f5dbcd0-649a-4b35-8287-8f84d8819f47" title = "vscode", alt="vscode", width="40" height="40"/>
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@ianfane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@vanya_fane) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ianfane&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ianfane&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianfane&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ianfane&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
