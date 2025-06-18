@@ -1,9 +1,5 @@
 # Hi, my name is Ivan!👋
 
-# 💫 About Me:
-Hello! My name is Ivan, and I am a Back-End Developer. My primary focus is the development of SA:MP projects.<br><br>👨‍💻 About me:<br>I have been independently studying programming languages for over two years. My experience includes working with C++, PAWN, Python, JavaScript, databases, and server technologies.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@ianfane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@vanya_fane) 
 
