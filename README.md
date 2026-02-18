@@ -36,10 +36,9 @@ I'm a **BackEnd Developer** specializing in **Python, JavaScript, Pawn, Java**.
 ### 🧠 My Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,vite,cpp,py,dotnet,mongodb,postgresql,tensorflow,bash" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,vite,cpp,py,pawn" height="40" />
 </div>
 
 ---
 
-> 🔥 *“Code hard, lift heavy.”*  
-> That’s the energy I bring — both to the gym and the codebase.
+> 🔥 *“Code hard, lift heavy.”* 
